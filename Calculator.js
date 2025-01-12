@@ -24,7 +24,7 @@ function Calculate(){
         display.value = eval(display.value);
 
     }
-    catch(arror){
+    catch(Just){
         display.value = "Error: ";
     }
     
